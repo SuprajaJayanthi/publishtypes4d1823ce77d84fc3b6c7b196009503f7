@@ -1,0 +1,1 @@
+Verify error handling for invalid amount
